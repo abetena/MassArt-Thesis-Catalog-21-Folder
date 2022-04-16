@@ -14,7 +14,15 @@ Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/AdobeFnt22.lst
 FileLength:3070
-FileModTime:671576624
+FileModTime:671577097
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/AdobeFnt23.lst
+FileLength:3511
+FileModTime:671815841
 %EndFont
 
 %BeginFont
