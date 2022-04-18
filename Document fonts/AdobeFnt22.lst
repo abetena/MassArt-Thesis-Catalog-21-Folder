@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/AdobeFnt16.lst
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/AdobeFnt16.lst
 FileLength:2118
 FileModTime:669658692
 %EndFont
@@ -12,15 +12,15 @@ FileModTime:669658692
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/AdobeFnt22.lst
-FileLength:3070
-FileModTime:671577097
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/AdobeFnt22.lst
+FileLength:3271
+FileModTime:672005310
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/AdobeFnt23.lst
 FileLength:3511
 FileModTime:671815841
 %EndFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -64,7 +64,7 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Light
 WritingScript:Roman
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/Quicksand-Light.ttf
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/Quicksand-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -87,7 +87,7 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Medium
 WritingScript:Roman
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/Quicksand-Medium.ttf
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/Quicksand-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -110,7 +110,7 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Regular
 WritingScript:Roman
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/Quicksand-Regular.ttf
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/Quicksand-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -132,7 +132,7 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand SemiBold
 WritingScript:Roman
-OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 21 Folder/Document fonts/Quicksand-SemiBold.ttf
+OutlineFileName:/Users/abe/Downloads/MassArt Thesis Catalog 22 Folder/Document fonts/Quicksand-SemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
