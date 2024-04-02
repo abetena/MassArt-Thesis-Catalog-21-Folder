@@ -4,25 +4,25 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt16.lst
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt16.lst
 FileLength:2118
-FileModTime:671641862
+FileModTime:722985625
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt22.lst
-FileLength:3070
-FileModTime:671641862
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt22.lst
+FileLength:3271
+FileModTime:722985625
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/AdobeFnt23.lst
 FileLength:3511
-FileModTime:671724182
+FileModTime:722985625
 %EndFont
 
 %BeginFont
@@ -38,14 +38,14 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:671641862
+FileModTime:722985625
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -64,12 +64,12 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Light
 WritingScript:Roman
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Light.ttf
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:77104
-FileModTime:671641862
+FileModTime:722985625
 NameArray:0,Win,1,Quicksand Light
 NameArray:0,Win,16,Quicksand
 %EndFont
@@ -87,12 +87,12 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Medium
 WritingScript:Roman
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Medium.ttf
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:77464
-FileModTime:671641862
+FileModTime:722985625
 NameArray:0,Win,1,Quicksand Medium
 NameArray:0,Win,16,Quicksand
 %EndFont
@@ -110,12 +110,12 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand Regular
 WritingScript:Roman
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Regular.ttf
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:77420
-FileModTime:671641862
+FileModTime:722985625
 NameArray:0,Win,1,Quicksand
 %EndFont
 
@@ -132,12 +132,12 @@ WidthClass:5
 AngleClass:0
 FullName:Quicksand SemiBold
 WritingScript:Roman
-OutlineFileName:/Users/abraham/Documents/InDesign/NewThesis_shared/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-SemiBold.ttf
+OutlineFileName:/Users/abraham/Documents/InDesign/MassArt Thesis Catalog 21 Folder/gitVersion/MassArt-Thesis-Catalog-21-Folder/Document fonts/Quicksand-SemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:77396
-FileModTime:671641862
+FileModTime:722985625
 NameArray:0,Win,1,Quicksand SemiBold
 NameArray:0,Win,16,Quicksand
 %EndFont
